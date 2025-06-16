@@ -1,0 +1,8 @@
+diccionario = {
+    "rut": "19657456-8",
+    "nombre": "miau gato",
+    "direccion": "plaza oeste",
+    "fonos": [
+        9887733
+    ]
+}
